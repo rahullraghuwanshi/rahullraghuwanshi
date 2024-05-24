@@ -60,5 +60,5 @@ I'm Rahul Raghuwanshi, a passionate Android Developer and Currently at Jar based
 - 🛠️ &nbsp; Kotlin, Retrofit, Pagination, MVVM.
 
 ## Achievements
-- 🥈 &nbsp; **Runner Up at [Hackathon - CompeteNCompose](https://drive.google.com/file/d/1svWA130pHdiEKJDN6LWa_295R8sre0M_/view) (Dec 2022)**
+- 🥈 &nbsp; **Runner Up at Hackathon - CompeteNCompose (Dec 2022)**
 - 🏅 &nbsp; **Participated in Hacktoberfest, contributing through five pull requests, and recognized for contributions with rewards. (Aug 2022)**
