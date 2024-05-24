@@ -2,7 +2,6 @@
 ![image](https://img.shields.io/badge/Kotlin-766DB2?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/KotlinMultiplatform-4B8BBE?style=for-the-badge&logo=KotlinMultiplatform&logoColor=white)
-![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 I'm Rahul Raghuwanshi, a passionate Android Developer and Currently at Jar based in Koramangala, Bengaluru, India.
 
