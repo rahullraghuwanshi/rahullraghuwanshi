@@ -1,7 +1,10 @@
 # 👋 Hello, Devs!
-![image](https://img.shields.io/badge/Kotlin-766DB2?&style=for-the-badge&logo=kotlin&logoColor=white)
-![image](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![image](https://img.shields.io/badge/KotlinMultiplatform-4B8BBE?style=for-the-badge&logo=KotlinMultiplatform&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)
 
 I'm Rahul Raghuwanshi, a passionate Android Developer and Currently at Jar based in Koramangala, Bengaluru, India.
 
@@ -61,3 +64,10 @@ I'm Rahul Raghuwanshi, a passionate Android Developer and Currently at Jar based
 ## Achievements
 - 🥈 &nbsp; **Runner Up at Hackathon - CompeteNCompose (Dec 2022)**
 - 🏅 &nbsp; **Participated in Hacktoberfest, contributing through five pull requests, and recognized for contributions with rewards. (Aug 2022)**
+
+## 🚧 Let's Connect!
+
+ &nbsp; [![Email](https://img.shields.io/badge/Email-champrahul202002%40gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:champrahul202002@gmail.com)
+ &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rahulraghuwanshii/)
+
+Happy coding! 🚀
